@@ -2,6 +2,8 @@
 
 ---
 
+[![volkswagen status](https://auchenberg.github.io/volkswagen/volkswargen_ci.svg?v=1)](https://github.com/auchenberg/volkswagen)
+
 This Script uses the Tumblr API to download `likes` and `posts` form any blog to your local machine in the `json` format. You can also filter the downloaded posts for `tags`, `users`, `content` (keywords) and `post-type`.
 
 **Before use:**
